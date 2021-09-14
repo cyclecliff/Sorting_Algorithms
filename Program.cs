@@ -9,6 +9,7 @@ namespace Sorting_Algorithms_AWESOME
         {
             Visualization.Initialize();
             Sorting.Initialize();
+            //Visualization.SijmenIsTheBest();
             while (true)
             {
                 Thread.Sleep(1000);

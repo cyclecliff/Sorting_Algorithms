@@ -10,6 +10,11 @@ namespace Sorting_Algorithms_AWESOME
 
         public static int[] RandomIntegerArray;
 
+        internal static void SijmenIsTheBest()
+        {
+            Console.WriteLine("");
+        }
+
         public static int    arraysize      = 140;
         public static int    maxheight      = 90;
 
